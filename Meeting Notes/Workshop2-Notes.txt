@@ -1,0 +1,12 @@
+﻿WORKSHOP 2
+
+- cut/envelope (features table, word doc) for pairs (10 sheets)
+
+- cut/envelope (activity data, excel) for groups of 4 (8 sheets)
+
+
+
+- remove completed code from pre-processing examples
+(table based groups, 3 tables)
+
+ 
