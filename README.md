@@ -3,7 +3,6 @@
 <br/>
 <span><em>Developed by Connlaoi Smith & Sylvia Raposo<br/>Guided by Amit Maraj</em></span>
 <hr/>
-<br/>
 <p>These 15 lessons provide an overview of Artificial Intelligence by means of applying Machine Learning Principles.</p>
 <br/>
 <p>You will start off writing basic Python, and end up with a functional Neural Network!</p>
