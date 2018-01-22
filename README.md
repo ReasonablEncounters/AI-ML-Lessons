@@ -1,6 +1,8 @@
 # A.I & Machine Learning Bootcamp
 ### 15 Lessons to Get your head around the Basic Principles
-<span>Developed by Connlaoi Smith & Sylvia Raposo</span>
+<br/>
+<span><em>Developed by Connlaoi Smith & Sylvia Raposo</em></span>
+<hr/>
 <br/>
 <p>These 15 lessons provide an overview of Artificial Intelligence by means of applying Machine Learning Principles.</p>
 <br/>
